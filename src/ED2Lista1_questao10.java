@@ -1,7 +1,7 @@
 
 
 
-public class ED2Lista1_questao10 {
+public class ED2Lista1_questao10{
 
     public int min(int[] array){
         return min(array, 1000000, 0);
